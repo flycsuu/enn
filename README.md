@@ -46,9 +46,9 @@ python -m load -model=GRU_SATT_SMD -task=Compress
 If you use the code in your paper, please cite it as:
 ```
 @article{fu2019ersnet,
-  title={基于自注意力机制的冗长商品名称精简方法},
-  author={傅裕 and 李优 and 林煜明 and 周娅 and others},
-  journal={华东师范大学学报 (自然科学版)},
+  title={Self-attention based neural networks for product titles compression},
+  author={FU Yu and LI You and LIN Yu-ming and ZHOU Ya and others},
+  journal={Journal of East China Normal University (Natural Sciences)},
   volume={5},
   pages={113--122},
   year={2019}
